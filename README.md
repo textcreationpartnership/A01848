@@ -35,13 +35,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe declaratio[n] of the shews, deuices, speeches, and inuentions, done & performed before the 
+
+1. To the verie worshipfull
+and his approued patrone, Master Rowland
+B•asebridge of great VVickombe, in the countie
+of Buck. Gen. his humble and faithful anowed:
+Henrie Goldwell wisheth that welfare
+which highteth eternall
+happines.
+
 #####Body#####
+
+1. ¶A Declaration of the
+Triumph shewed before the Queenes
+Maiestie, and the French Ambassadours,
+on VVhitson Munday & Tuesday.
 TO beginne particularly to
 wright of these attempts,
 and briefly to runne ouer
 •ache s•uerall action
-1. The seconde dayes sport.
+    _ The seconde dayes sport.
+
+1. The Aucthors conclusion
+to the Reader.
 
 **Types of content**
 
